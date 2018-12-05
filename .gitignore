@@ -5,6 +5,8 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 [Cc]orgiEngine/
+BOXOPHOBIC/
+TextMesh*/
 
 
 # Visual Studio cache directory
